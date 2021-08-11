@@ -13,3 +13,8 @@
 .Carousel-main > i:hover {
   color: black;
 }
+
+.hideLeftArrow, .hideRightArrow {
+  display: none;
+}
+
